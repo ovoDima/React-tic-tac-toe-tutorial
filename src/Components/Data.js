@@ -23,6 +23,7 @@ const data = () => {
             bs: "harness real-time e-markets"
           }
         },
+        
         {
           id: 2,
           name: "Ervin Howell",
@@ -46,6 +47,7 @@ const data = () => {
             bs: "synergize scalable supply-chains"
           }
         },
+
         {
           id: 3,
           name: "Clementine Bauch",
